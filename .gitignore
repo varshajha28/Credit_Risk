@@ -5,7 +5,11 @@ __pycache__/
 
 # C extensions
 *.so
-
+Imbalance
+linear_regression_salary
+Categorical
+svm
+Module-17-Challenge-Resources
 # Distribution / packaging
 .Python
 build/
